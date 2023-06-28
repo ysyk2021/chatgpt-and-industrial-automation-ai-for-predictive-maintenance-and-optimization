@@ -3,11 +3,6 @@ How ChatGPT can be used for predictive maintenance and optimization in industria
 
 In this chapter, we will discuss the basics of ChatGPT, an advanced natural language processing (NLP) technology, and how it can be used for predictive maintenance and optimization in industrial automation.
 
-What is ChatGPT?
-----------------
-
-ChatGPT is a state-of-the-art NLP technology that leverages machine learning algorithms to understand human language and generate responses to questions and statements. It is designed to simulate conversations with humans, making it easier to access information and insights related to maintenance and optimization processes in industrial automation.
-
 How Can ChatGPT Be Used for Predictive Maintenance and Optimization in Industrial Automation?
 ---------------------------------------------------------------------------------------------
 
