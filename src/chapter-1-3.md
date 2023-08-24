@@ -1,5 +1,3 @@
-The Role of ChatGPT in Using AI for Predictive Maintenance and Optimization
-=========================================================================================
 
 In this book, we will explore the role of ChatGPT, an advanced natural language processing (NLP) technology, in using artificial intelligence (AI) for predictive maintenance and optimization in industrial automation.
 

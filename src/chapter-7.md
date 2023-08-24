@@ -1,5 +1,3 @@
-Chapter 6: Future of Industrial Automation with ChatGPT
-=======================================================
 
 As ChatGPT continues to revolutionize industrial automation, there are many potential advancements, emerging trends, and challenges that must be taken into account. In this chapter, we will explore the future of industrial automation with ChatGPT.
 

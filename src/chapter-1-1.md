@@ -1,5 +1,3 @@
-Overview of the Book
-==================================
 
 In this book, we will explore the use of artificial intelligence (AI) and advanced natural language processing (NLP) technologies such as ChatGPT in predictive maintenance and optimization for industrial automation.
 

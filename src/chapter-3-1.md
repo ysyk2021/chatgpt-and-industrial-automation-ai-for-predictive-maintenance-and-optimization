@@ -1,5 +1,3 @@
-Factors Affecting Industrial Automation
-=======================================================================================
 
 In this chapter, we will discuss the various factors affecting industrial automation and the challenges they present to predictive maintenance and optimization.
 

@@ -1,5 +1,3 @@
-Summary of Key Points
-=================================
 
 In this book, we have explored the potential of ChatGPT to transform industrial automation by enabling predictive maintenance and optimization. We have discussed the features and capabilities of ChatGPT, as well as the best practices for implementing ChatGPT in industrial operations.
 

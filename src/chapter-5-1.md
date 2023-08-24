@@ -1,5 +1,3 @@
-What is ChatGPT?
-==================================================
 
 ChatGPT is an artificial intelligence (AI) language model developed by OpenAI. It uses deep learning techniques to generate human-like responses to natural language queries. The name "ChatGPT" stands for "Generative Pre-trained Transformer for Chatting".
 

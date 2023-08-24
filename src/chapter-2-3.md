@@ -1,5 +1,3 @@
-Importance of Predictive Maintenance and Optimization for Industrial Operations
-===========================================================================================================================
 
 In this chapter, we will introduce the basics of industrial automation and explain why predictive maintenance and optimization are critical components of successful industrial operations.
 

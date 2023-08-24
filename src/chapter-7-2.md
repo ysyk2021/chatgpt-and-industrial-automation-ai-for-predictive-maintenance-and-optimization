@@ -1,5 +1,3 @@
-Emerging trends and challenges in industrial automation and ChatGPT
-============================================================================================================================
 
 As ChatGPT continues to revolutionize industrial automation, there are emerging trends and challenges that must be taken into account. In this chapter, we will explore the emerging trends and challenges in industrial automation and ChatGPT.
 

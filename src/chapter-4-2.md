@@ -1,5 +1,3 @@
-How AI and chatbots can improve predictive maintenance and optimization in industrial automation
-=================================================================================================================================================================
 
 In this chapter, we will discuss the role of AI and chatbots in industrial automation, and how these technologies can improve predictive maintenance and optimization.
 

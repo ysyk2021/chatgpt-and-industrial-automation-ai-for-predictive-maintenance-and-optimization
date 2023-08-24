@@ -1,5 +1,3 @@
-Features and capabilities of ChatGPT
-======================================================================
 
 ChatGPT is a powerful AI model that has the capability of transforming industrial automation by enabling predictive maintenance and optimization. In this chapter, we will explore the features and capabilities of ChatGPT.
 

@@ -1,5 +1,3 @@
-Explanation of Industrial Automation and Its Importance
-=====================================================================
 
 In this book, we will explore the importance of industrial automation and how it can be enhanced by artificial intelligence (AI) and advanced natural language processing (NLP) technologies such as ChatGPT.
 

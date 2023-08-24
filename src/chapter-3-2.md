@@ -1,5 +1,3 @@
-Common Challenges Faced by Industrial Operations
-================================================================================================
 
 In this chapter, we will discuss the common challenges faced by industrial operations that can impact predictive maintenance and optimization processes.
 

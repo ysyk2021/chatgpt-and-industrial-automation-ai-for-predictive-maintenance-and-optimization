@@ -1,5 +1,3 @@
-Potential advancements in industrial automation with ChatGPT
-=====================================================================================================================
 
 ChatGPT has the potential to revolutionize industrial automation by enabling predictive maintenance and optimization. In this chapter, we will explore the potential advancements in industrial automation that can be achieved with ChatGPT.
 

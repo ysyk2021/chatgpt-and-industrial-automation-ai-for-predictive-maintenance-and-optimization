@@ -1,5 +1,3 @@
-Different Types of Industrial Processes
-===================================================================================
 
 Industrial automation is a critical component of modern manufacturing and production processes. In this chapter, we will explore the different types of industrial processes that can benefit from industrial automation.
 

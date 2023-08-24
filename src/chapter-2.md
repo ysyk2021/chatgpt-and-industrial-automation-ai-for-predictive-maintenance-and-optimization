@@ -1,5 +1,3 @@
-Chapter 1: Basics of Industrial Automation
-==========================================
 
 In this chapter, we will introduce the basics of industrial automation and explain its different types of processes. We will also discuss the importance of predictive maintenance and optimization for successful industrial operations.
 

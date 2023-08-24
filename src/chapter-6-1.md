@@ -1,5 +1,3 @@
-Steps to implement ChatGPT in industrial automation
-=============================================================================================================
 
 Implementing ChatGPT in industrial automation can be a complex process. However, by following these steps, it is possible to successfully integrate ChatGPT into your operations and achieve significant benefits.
 
