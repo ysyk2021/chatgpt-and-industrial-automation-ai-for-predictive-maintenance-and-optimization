@@ -6,3 +6,7 @@ This book, "ChatGPT and Industrial Automation: AI for Predictive Maintenance and
 Through this book, readers will gain a deep understanding of the role of ChatGPT technology in predictive maintenance and its potential to optimize industrial automation processes. It will serve as a valuable resource for industrial automation professionals, engineers, researchers, and anyone interested in the intersection of AI and industrial processes.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
