@@ -1,5 +1,4 @@
-Chapter: Best Practices for Using ChatGPT in Predictive Maintenance and Optimization
-====================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the best practices for effectively using ChatGPT in the context of predictive maintenance and optimization in industrial automation. ChatGPT, with its natural language processing capabilities, can play a significant role in enhancing predictive maintenance workflows and optimizing operational efficiency. However, to maximize its potential, it is crucial to follow certain best practices. This chapter will provide guidelines and recommendations for integrating ChatGPT into your maintenance and optimization strategies.
 

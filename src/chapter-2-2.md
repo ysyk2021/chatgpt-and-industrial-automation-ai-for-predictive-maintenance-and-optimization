@@ -1,5 +1,4 @@
-Chapter: Different Types of Industrial Processes
-================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Industrial processes encompass a wide range of activities that are carried out in various industries. Each process has its unique characteristics, requirements, and challenges. Understanding the different types of industrial processes is essential for implementing effective AI-powered solutions such as chatbots for predictive maintenance and optimization.
 

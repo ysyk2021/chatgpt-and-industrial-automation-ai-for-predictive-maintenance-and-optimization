@@ -1,5 +1,4 @@
-Chapter: How AI and Chatbots Improve Predictive Maintenance and Optimization in Industrial Automation
-=====================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the specific ways in which AI (Artificial Intelligence) and chatbots can enhance predictive maintenance and optimization in industrial automation. By leveraging advanced technologies like ChatGPT, organizations can transform their operations, minimize downtime, and maximize the performance of their assets.
 

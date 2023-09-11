@@ -1,5 +1,4 @@
-Chapter: Conclusion and Future Outlook
-======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this book, we explored the application of ChatGPT in industrial automation for predictive maintenance and optimization. We discussed the features and capabilities of ChatGPT, its integration with industrial automation systems, and the emerging trends and challenges in this field. Now, let's summarize our findings and discuss the future outlook of ChatGPT in industrial automation.
 

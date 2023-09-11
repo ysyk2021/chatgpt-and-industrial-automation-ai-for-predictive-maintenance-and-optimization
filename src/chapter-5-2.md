@@ -1,5 +1,4 @@
-Chapter: Features and Capabilities of ChatGPT
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT, powered by AI, offers a wide range of features and capabilities that make it a valuable tool for predictive maintenance and optimization in industrial automation. With its natural language processing and machine learning capabilities, ChatGPT can analyze data, provide real-time insights, facilitate communication, and support decision-making processes. In this chapter, we will explore the key features and capabilities of ChatGPT.
 

@@ -1,5 +1,4 @@
-Chapter: How ChatGPT can be Used for Predictive Maintenance and Optimization in Industrial Automation
-=====================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT, powered by AI, offers significant potential for predictive maintenance and optimization in industrial automation workflows. By leveraging natural language processing and machine learning, ChatGPT can provide real-time insights, automate data analysis, and facilitate decision-making processes. In this chapter, we will explore how ChatGPT can be utilized to enhance predictive maintenance and optimization in industrial automation.
 

@@ -1,5 +1,4 @@
-Chapter: Introduction to AI and Chatbots
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will provide an introduction to artificial intelligence (AI) and chatbots in the context of industrial automation. AI, with its ability to mimic human-like intelligence, and chatbots, with their conversational capabilities, have revolutionized various industries, including predictive maintenance and optimization. This chapter aims to familiarize readers with the fundamental concepts, benefits, and applications of AI and chatbots in the industrial automation domain.
 

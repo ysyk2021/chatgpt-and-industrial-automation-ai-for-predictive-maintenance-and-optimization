@@ -1,5 +1,4 @@
-Chapter: Common Challenges Faced by Industrial Operations
-=========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Industrial operations face numerous challenges that impact productivity, efficiency, and overall performance. In this chapter, we will discuss some of the common challenges faced by industrial operations and how AI, specifically ChatGPT, can help address them.
 

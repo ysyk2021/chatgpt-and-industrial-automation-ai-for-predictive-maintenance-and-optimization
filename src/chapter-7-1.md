@@ -1,5 +1,4 @@
-Chapter: Potential Advancements in Industrial Automation with ChatGPT
-=====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT, powered by AI, has the potential to revolutionize industrial automation by enabling more advanced capabilities and functionalities. With ongoing advancements in natural language processing, machine learning, and human-AI interaction, ChatGPT can unlock new opportunities for predictive maintenance and optimization in industrial settings. In this chapter, we will explore the potential advancements that ChatGPT can bring to industrial automation.
 

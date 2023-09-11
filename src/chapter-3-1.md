@@ -1,5 +1,4 @@
-Chapter: Factors Affecting Industrial Automation
-================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Industrial automation is influenced by various factors that shape its adoption, implementation, and effectiveness. In this chapter, we will explore some of the key factors that affect industrial automation and how AI, specifically ChatGPT, can contribute to its success.
 

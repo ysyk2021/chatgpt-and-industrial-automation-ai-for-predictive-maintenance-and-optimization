@@ -1,5 +1,4 @@
-Chapter: Steps to Implement ChatGPT in Industrial Automation
-============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will outline the steps involved in implementing ChatGPT, a powerful language model, in industrial automation workflows for predictive maintenance and optimization. These steps provide a practical guide for organizations looking to leverage ChatGPT's conversational AI capabilities to enhance their operational efficiency.
 

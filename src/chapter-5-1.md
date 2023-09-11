@@ -1,5 +1,4 @@
-Chapter: What is ChatGPT?
-=========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT is an advanced artificial intelligence language model developed by OpenAI that is capable of generating human-like responses to natural language queries. The GPT in ChatGPT stands for "Generative Pre-trained Transformer," which refers to the model's architecture and training process.
 

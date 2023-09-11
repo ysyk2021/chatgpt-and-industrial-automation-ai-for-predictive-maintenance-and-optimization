@@ -1,5 +1,4 @@
-Chapter: Definition of Industrial Automation
-============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Industrial automation is the application of advanced technologies to control and monitor industrial systems, processes, and machinery with minimal human intervention. It involves the integration of various hardware and software components that work together to streamline operations, improve efficiency, and enhance productivity in manufacturing and other industrial sectors.
 

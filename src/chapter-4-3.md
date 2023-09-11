@@ -1,5 +1,4 @@
-Chapter: Benefits of Using AI and Chatbots for Industrial Operations
-====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the numerous benefits that AI (Artificial Intelligence) and chatbots bring to industrial operations. As organizations increasingly adopt advanced technologies, such as ChatGPT, they unlock new opportunities for improving efficiency, reducing costs, and enhancing productivity in their industrial automation workflows.
 

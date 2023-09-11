@@ -1,5 +1,4 @@
-Chapter: Emerging Trends and Challenges in Industrial Automation and ChatGPT
-============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The combination of industrial automation and ChatGPT brings exciting possibilities for predictive maintenance and optimization. However, this integration also presents emerging trends and challenges that need to be addressed. In this chapter, we will explore some of these trends and challenges in industrial automation and the use of ChatGPT.
 
